@@ -54,7 +54,9 @@ firestore-realtime-db
    │ user1   │
    │ user2   │
    └─────────┘
-**
+
+
+
    Step-by-Step Implementation**
    
 Step 1: Create GCP Project
